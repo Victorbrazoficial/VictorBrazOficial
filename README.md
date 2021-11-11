@@ -21,5 +21,5 @@
    <a href = "vic_braz@outlook.com"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
     <a href = "https://github.com/Victorbrazoficial"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
     
-    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/Victorbrazoficial/blob/output/github-contribution-grid-snake.svg)
   </div>
