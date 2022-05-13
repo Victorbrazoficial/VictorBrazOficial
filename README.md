@@ -1,6 +1,6 @@
 ### Oi, seja bem vindo(a)!! Eu sou o Victor Braz. 👋
 
--👨🏽‍💻Estudando a linguagem Java e back-end.
+-👨🏽‍💻Estudando a linguagem C# e back-end.
 
 <div align="left">
   <a href="https://github.com/victorbrazoficial">
